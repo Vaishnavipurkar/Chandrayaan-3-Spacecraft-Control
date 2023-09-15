@@ -1,0 +1,1 @@
+This C++ program defines a Spacecraft class with methods to handle movement and rotation as described in the requirements. It initializes the spacecraft at the specified starting position and direction and then executes a sequence of commands to control its movement. Finally, it prints the spacecraft's final position and direction.
