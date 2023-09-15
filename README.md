@@ -1,6 +1,6 @@
 # Chandrayaan 3 Lunar Craft: Galactic Space Craft Control 🚀🌌
 Control software for Chandrayaan 3 lunar spacecraft navigation in galactic coordinates.
-![Chandrayaan 3]([https://example.com/path/to/your/image.jpg](https://images.moneycontrol.com/static-mcnews/2023/08/Chandrayaannew-1-770x433.jpg?impolicy=website&width=770&height=431))
+![Chandrayaan 3]([https://example.com/path/to/your/image.jpg](https://images.moneycontrol.com/static-mcnews/2023/08/Chandrayaannew-1-770x433.jpg?impolicy=website&width=770&height=431)
 
 Chandrayaan 3
 
