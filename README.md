@@ -1,4 +1,6 @@
 # Chandrayaan 3 Lunar Craft: Galactic Space Craft Control 🚀🌌
+![Chandrayaan 3]([Your_Image_URL](https://github.com/Vaishnavipurkar/Chandrayaan-3-Spacecraft-Control/blob/master/ch3.JPG))
+              
 Control software for Chandrayaan 3 lunar spacecraft navigation in galactic coordinates.
 
 Chandrayaan 3
