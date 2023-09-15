@@ -16,6 +16,7 @@ public:
     // Constructor to initialize the spacecraft's position and direction
     Spacecraft(int startX, int startY, int startZ, char startDir)
         : x(startX), y(startY), z(startZ), direction(startDir) {}
+        
 Here, a class named Spacecraft is defined to represent the Chandrayaan 3 spacecraft. The constructor is used to initialize the spacecraft's initial position (x, y, z) and direction (N, S, E, W, Up, Down).
 
 Define Movement and Rotation Functions:
@@ -90,6 +91,8 @@ Get and Display the Final Position and Direction:
 cpp
 Copy code
     // Get the final position and direction
+
+    
     chandrayaan.getPosition();
 
     return 0;
